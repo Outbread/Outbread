@@ -26,14 +26,8 @@ Here are some ideas to get you started:
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=purple)
   
 </div>
-  
 
 <br>
 <br>
-
-<h3 align="center"> 📫 How to reach me 📫 </h3>
-
-
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
