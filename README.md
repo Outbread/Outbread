@@ -6,7 +6,8 @@
 
 
 - 📫 How to reach me
-  \n gmail : outlier.bread@gmail.com
+<br>
+gmail : outlier.bread@gmail.com
 
 - ⚡ Fun fact
   
