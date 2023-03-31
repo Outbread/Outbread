@@ -26,6 +26,6 @@
     <img 
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
     >
- </a>
+</a>  <- click! 
   
 </div>
