@@ -54,4 +54,9 @@
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
     >
   </a>  <- click! 
+  <br>
+  <br>
+  <br>
+  <h2> 💬 fun fact  </h2>
+  My nickname Outbread means 'Outlier + bread'. Not a name of the Outback's bread. Well, I like that bread, though.😂
 </div>
