@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> Hi there 👋 </h2>
+  <h2> Welcome to my voyage! 👋 </h2>
   <br>
   <h3> 🔭 I’m currently sailing on ...</h3>
   <div>
