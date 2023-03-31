@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Welcome to my voyage! ⛵ </h1>
   <br>
-  <h2> 🔭 I’m currently sailing on ...</h2>
+  <h2> 🔭 I’m currently sailing on </h2>
   <div>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -37,12 +37,16 @@
   📍 검색, 상세페이지 </li>
   <br>
   <br>
+  <h2> 🌊 It's not the end, I'm still learning ... </h2>
+  <li> 백준 문제풀이 </li>
+  <li> 자료구조 with Phython </li>
   <br>
-  <h2> 🏫 Studied at...</h2>
-  🏷 스마트웹 모바일 서비스를 위한 클라우드 기반의 MSA 풀스택 자바 개발자 과정 수료 <br>
+  <br>
+  <h2> 🏫 Oh, I studied at </h2>
+  <b> 🏷 스마트웹 모바일 서비스를 위한 클라우드 기반의 MSA 풀스택 자바 개발자 과정 수료 </b><br>
   하이미디어아카데미 인재개발원 (2022.08 ~2023.02(6개월))
   <br>
-  <h4> 🏷 동국대학교 통계학과 졸업 </h4>
+  <h4> 🏷 동국대학교 졸업 </h4>
   <br>
   <h2> 📫 You can reach me by ... </h2> 
   <a href="mailto:quf8093@gmail.com">
